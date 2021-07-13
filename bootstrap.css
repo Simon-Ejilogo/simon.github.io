@@ -1,0 +1,21 @@
+.btn_align {
+  /* display: inline-block;
+
+  margin-top: 3rem;
+  margin-left:  auto;
+  padding-left: 2rem; */
+
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 3rem;
+  padding: 10px;
+  justify-content: center;
+
+}
+
+.container{
+    background-color:silver;
+    margin-top: 50px;
+    border:1px solid #000;
+}
+
